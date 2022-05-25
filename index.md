@@ -5,9 +5,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
 
 ### Jazz --> Classic
 > #### Cherry picked: Tutu by Miles Davies 
-
-
-> <table>
+<table>
   <thead>
     <tr>
       <th>
@@ -19,12 +17,6 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
         </audio>
       </th>
     </tr>
-  </thead>
-</table>
-
-
-<table>
-  <thead>
     <tr>
       <th>
         • CycleGAN TC
