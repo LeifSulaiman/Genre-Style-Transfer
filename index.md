@@ -23,7 +23,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
 </table>
 
 
-> <table>
+<table>
   <thead>
     <tr>
       <th>
