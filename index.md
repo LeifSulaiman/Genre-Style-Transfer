@@ -3,8 +3,8 @@
 Below you will find some generated samples from all models, i.e. the normal CycleGAN, CycleGAN with timbre discriminator (T) and CycleGAN with both timbre- and composition discriminator (TC). You will find both cherry-picked and random generations, and their corresponding original song. Please enjoy! :)
 
 
-### Jazz --> Classic
-#### Cherry picked: Tutu by Miles Davies 
+## Jazz --> Classic
+### Cherry picked: Tutu by Miles Davies 
 <table>
   <thead>
     <tr>
@@ -30,7 +30,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
   </thead>
 </table>
 
-#### Random sample: New york state of mind
+### Random sample: New york state of mind
 <table>
   <thead>
     <tr>
@@ -77,8 +77,8 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
 </table>
 
 
-### Classic --> Jazz
-#### Cherry picked: Variation 2018
+## Classic --> Jazz
+### Cherry picked: Variation 18
 <table>
   <thead>
     <tr>
@@ -87,7 +87,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
       </th>
       <th style="text-align:right">
         <audio controls>
-          <source src="https://user-images.githubusercontent.com/39059090/171183216-63c22eb7-3c2b-4644-a4c3-14cb3ae52304.mp4">
+          <source src="https://user-images.githubusercontent.com/39059090/171185119-9fa1b661-b114-4626-aff4-9e2e96dd4bcb.mp4">
         </audio>
       </th>
     </tr>
@@ -97,7 +97,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
       </th>
       <th style="text-align:right">
         <audio controls>
-          <source src="https://user-images.githubusercontent.com/39059090/171183268-5667f373-fbf2-4207-86b1-bb0e8e2dbcd9.mp4">
+          <source src="https://user-images.githubusercontent.com/39059090/171185178-eab53918-fad6-48a6-9c28-d90be8b81171.mp4">
         </audio>
       </th>
     </tr>
@@ -105,7 +105,7 @@ Below you will find some generated samples from all models, i.e. the normal Cycl
 </table>
 
 
-#### Random sample: Sonata n10 2 mov XVI1 
+### Random sample: Sonata n10 2 mov XVI1 
 <table>
   <thead>
     <tr>
